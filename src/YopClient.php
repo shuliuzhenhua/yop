@@ -8,8 +8,6 @@
 
 namespace Shuliuzhenhua\Yop;
 
-require_once __DIR__ . '/../vendor/autoload.php';
-
 use Shuliuzhenhua\Yop\core\YopClient as Client;
 
 /**

@@ -9,7 +9,7 @@
 
 namespace Shuliuzhenhua\Yop\core\Util;
 
-require_once("HttpUtils.php");
+
 abstract class HTTPRequest{
 
 
