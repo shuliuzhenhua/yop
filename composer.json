@@ -1,0 +1,14 @@
+{
+    "name": "shuliuzhenhua/yop",
+    "description": "易宝钱麦sdk",
+    "license": "MIT",
+    "require": {
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Shuliuzhenhua\\Yop\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
